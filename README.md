@@ -11,3 +11,5 @@ In the current iteration, rotation past 180 degrees is not possible.
 
 
 This software can be tested with any serial port device, e.g. Arduino. 
+
+[![HitCount](http://hits.dwyl.com/ilopezpe/{project}.svg)](http://hits.dwyl.com/ilopezpe/{project})
